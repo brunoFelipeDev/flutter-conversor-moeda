@@ -4,8 +4,8 @@ Projeto voltado para estudo pessoal da linguagem Dart, utilizando Flutter, em um
 
 ## Prints
 
-<img src="https://github.com/brunoFelipeDev/flutter-calculadora-imc/blob/master/images/screen_1.png" width="30%"></img> 
-<img src="https://github.com/brunoFelipeDev/flutter-calculadora-imc/blob/master/images/screen_2.png" width="30%"></img> 
-<img src="https://github.com/brunoFelipeDev/flutter-calculadora-imc/blob/master/images/screen_3.png" width="30%"></img> 
-<img src="https://github.com/brunoFelipeDev/flutter-calculadora-imc/blob/master/images/screen_4.png" width="30%"></img> 
-<img src="https://github.com/brunoFelipeDev/flutter-calculadora-imc/blob/master/images/screen_5.png" width="30%"></img> 
+<img src="https://github.com/brunoFelipeDev/flutter-conversor-moeda/blob/master/images/screen_1.png" width="30%"></img> 
+<img src="https://github.com/brunoFelipeDev/flutter-conversor-moeda/blob/master/images/screen_2.png" width="30%"></img> 
+<img src="https://github.com/brunoFelipeDev/flutter-conversor-moeda/blob/master/images/screen_3.png" width="30%"></img> 
+<img src="https://github.com/brunoFelipeDev/flutter-conversor-moeda/blob/master/images/screen_4.png" width="30%"></img> 
+<img src="https://github.com/brunoFelipeDev/flutter-conversor-moeda/blob/master/images/screen_5.png" width="30%"></img> 
